@@ -11,6 +11,7 @@
 ## Articles
 
 - [On Cybersecurity and being targeted](http://www.kennethreitz.org/essays/on-cybersecurity-and-being-targeted). This is a good read on people targeting GitHub accounts through DNS redirects, and why you should have 2FA for everything enabled.
+- [The 4 Basic Steps of Online Privacy](http://www.vanschneider.com/the-4-basic-steps-of-online-privacy/). This is a very easy introductory read to personal operational security, aimed towards Designers.
 
 ## Contribute
 
