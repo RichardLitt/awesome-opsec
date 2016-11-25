@@ -14,6 +14,10 @@
 - [The 4 Basic Steps of Online Privacy](http://www.vanschneider.com/the-4-basic-steps-of-online-privacy/). This is a very easy introductory read to personal operational security, aimed towards Designers.
 - [How to encrypt your entire life in less than an hour](https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.syw0wrypv). Another easy read that offers a few more steps, aimed at beginners hoping to be more secure.
 
+## Guides
+
+- [MacOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - An incredibly detailed guide to securing your Mac.
+
 ## Contribute
 
 Please add to this list! Look at the [contributing guidelines](contributing.md), and [check out the issues](https://github.com/RichardLitt/awesome-opsec/issues), and open your own if what you're looking for is not there.
