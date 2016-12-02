@@ -13,6 +13,7 @@
 - [On Cybersecurity and being targeted](http://www.kennethreitz.org/essays/on-cybersecurity-and-being-targeted). This is a good read on people targeting GitHub accounts through DNS redirects, and why you should have 2FA for everything enabled.
 - [The 4 Basic Steps of Online Privacy](http://www.vanschneider.com/the-4-basic-steps-of-online-privacy/). This is a very easy introductory read to personal operational security, aimed towards Designers.
 - [How to encrypt your entire life in less than an hour](https://medium.freecodecamp.com/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3#.syw0wrypv). Another easy read that offers a few more steps, aimed at beginners hoping to be more secure.
+- [“I accidentally malware - what should I do… is this dangerous? Overcoming inevitable risks of electronic communication](https://ccdcoe.org/sites/default/files/multimedia/pdf/I%20accidentally%20malware.pdf) - Amazingly detailed ebook on clicking links and what to do about it
 
 ## Guides
 
